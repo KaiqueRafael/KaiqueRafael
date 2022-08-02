@@ -7,26 +7,13 @@
 <hr>
 
 ### <b>Tecnologias Preferidas
-
+  
 <div style="display: inline-block"><br/>
   <img align="center" alt="HTML5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="CSS3" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="JS" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="REACT" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="REACT" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="REACT" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-</div>
-<div style="display: inline-block"><br/>
   <img align="center" alt="REACT" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"/>
 </div>
-<br/>
