@@ -1,5 +1,5 @@
 ### <b>Bem vindo ! Eu sou o Kaique Silva 👽
-<hr><br/>
+<hr>
 
 <div style="display: inline-block">
   <img align="center" width="49%" height="100%" src="https://github-readme-stats.vercel.app/api?username=KaiqueRafael&show_icons=true&theme=tokyonight"/>
